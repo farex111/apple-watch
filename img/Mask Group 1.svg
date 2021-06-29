@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_1" data-name="Path 1" d="M0,0H80V80H0Z" transform="translate(520 1612)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="51.429" height="80" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6acbe0"/>
+      <stop offset="1" stop-color="#6859ea"/>
+    </linearGradient>
+  </defs>
+  <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(-520 -1612)" clip-path="url(#clip-path)">
+    <g id="watch" transform="translate(534.286 1612)" clip-path="url(#clip-path-2)">
+      <g id="Group_65" data-name="Group 65" transform="translate(-14.286)">
+        <path id="Path_29" data-name="Path 29" d="M57.143,11.429h-.629L54.2,2.163A2.857,2.857,0,0,0,51.429,0H28.572A2.857,2.857,0,0,0,25.8,2.163l-2.314,9.266h-.629A8.571,8.571,0,0,0,14.286,20V60a8.571,8.571,0,0,0,8.571,8.571h.629L25.8,77.837A2.857,2.857,0,0,0,28.572,80H51.429A2.857,2.857,0,0,0,54.2,77.837l2.314-9.266h.629A8.571,8.571,0,0,0,65.714,60V20A8.572,8.572,0,0,0,57.143,11.429ZM30.8,5.714H49.2l1.429,5.714H29.374ZM49.2,74.286H30.8l-1.429-5.714H50.626ZM60,60a2.857,2.857,0,0,1-2.857,2.857H22.857A2.857,2.857,0,0,1,20,60V42.857h4.186l4.857,7.3a2.857,2.857,0,0,0,5.054-.571l5.617-14.931,6.134,20.451a2.857,2.857,0,0,0,2.609,2.034h.114a2.857,2.857,0,0,0,2.654-1.794L56.22,42.857H60Zm0-22.857H54.286a2.857,2.857,0,0,0-2.654,1.794l-2.674,6.691-6.22-20.734a2.857,2.857,0,0,0-2.643-2.037,2.934,2.934,0,0,0-2.771,1.854L30.712,42.346l-2.62-3.931a2.857,2.857,0,0,0-2.377-1.271H20V20a2.857,2.857,0,0,1,2.857-2.857H57.143A2.857,2.857,0,0,1,60,20V37.143Z" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+  </g>
+</svg>

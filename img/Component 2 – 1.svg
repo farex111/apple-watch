@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="80" height="80" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_1" data-name="Path 1" d="M0,0H80V80H0Z" transform="translate(520 1612)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6acbe0"/>
+      <stop offset="1" stop-color="#6859ea"/>
+    </linearGradient>
+  </defs>
+  <g id="Component_2_1" data-name="Component 2 – 1" clip-path="url(#clip-path)">
+    <g id="Mask_Group_2" data-name="Mask Group 2" transform="translate(-520 -1612)" clip-path="url(#clip-path-2)">
+      <g id="thermometer" transform="translate(520 1612)">
+        <g id="Group_67" data-name="Group 67">
+          <g id="Group_66" data-name="Group 66">
+            <path id="Path_30" data-name="Path 30" d="M44.952,60.033a5.715,5.715,0,0,0-2.092-2.092V31.431a2.857,2.857,0,1,0-5.715,0V57.941a5.715,5.715,0,1,0,7.807,2.092Z" fill="url(#linear-gradient)"/>
+          </g>
+        </g>
+        <g id="Group_69" data-name="Group 69">
+          <g id="Group_68" data-name="Group 68">
+            <path id="Path_31" data-name="Path 31" d="M54.289,53.467V14.287a14.287,14.287,0,0,0-28.573,0v39.18a16.918,16.918,0,0,0-2.432,13.209A17.21,17.21,0,0,0,36.508,79.657,17.667,17.667,0,0,0,39.977,80a17.127,17.127,0,0,0,17.17-17.084v-.054A16.915,16.915,0,0,0,54.289,53.467ZM47.252,71.714l-.006.006a11.429,11.429,0,0,1-18.387-6.286,11.306,11.306,0,0,1,2-9.355,2.857,2.857,0,0,0,.571-1.714V14.287a8.572,8.572,0,0,1,17.144,0v40.08a2.858,2.858,0,0,0,.571,1.714A11.338,11.338,0,0,1,47.252,71.714Z" fill="url(#linear-gradient)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_1" data-name="Path 1" d="M0,0H80V80H0Z" transform="translate(520 1612)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6acbe0"/>
+      <stop offset="1" stop-color="#6859ea"/>
+    </linearGradient>
+  </defs>
+  <g id="Mask_Group_5" data-name="Mask Group 5" transform="translate(-520 -1612)" clip-path="url(#clip-path)">
+    <g id="focus" transform="translate(520 1612)">
+      <g id="Group_76" data-name="Group 76">
+        <g id="Group_75" data-name="Group 75">
+          <path id="Path_35" data-name="Path 35" d="M77.143,37.143h-3A34.3,34.3,0,0,0,42.857,5.86v-3a2.857,2.857,0,1,0-5.714,0v3A34.3,34.3,0,0,0,5.86,37.143h-3a2.857,2.857,0,1,0,0,5.714h3A34.3,34.3,0,0,0,37.143,74.14v3a2.857,2.857,0,1,0,5.714,0v-3A34.3,34.3,0,0,0,74.14,42.857h3a2.857,2.857,0,1,0,0-5.714ZM40,68.571A28.571,28.571,0,1,1,68.571,40,28.571,28.571,0,0,1,40,68.571Z" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+      <g id="Group_78" data-name="Group 78">
+        <g id="Group_77" data-name="Group 77">
+          <path id="Path_36" data-name="Path 36" d="M40,20A20,20,0,1,0,60,40,20,20,0,0,0,40,20Zm0,34.286A14.286,14.286,0,1,1,54.286,40,14.286,14.286,0,0,1,40,54.286Z" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

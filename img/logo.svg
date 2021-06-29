@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="35" height="35" viewBox="0 0 35 35">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="35" height="35" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.857" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6acbe0"/>
+      <stop offset="1" stop-color="#6859ea"/>
+    </linearGradient>
+  </defs>
+  <g id="ic_schedule_24px" clip-path="url(#clip-path)">
+    <path id="ic_schedule_24px-2" data-name="ic_schedule_24px" d="M19.483,2A17.5,17.5,0,1,0,37,19.5,17.491,17.491,0,0,0,19.483,2ZM19.5,33.5a14,14,0,1,1,14-14A14,14,0,0,1,19.5,33.5Zm.875-22.75H17.75v10.5l9.188,5.512L28.25,24.61l-7.875-4.673Z" transform="translate(-2 -2)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
